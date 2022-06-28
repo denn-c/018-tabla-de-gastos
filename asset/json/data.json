@@ -1,0 +1,30 @@
+[
+  {
+    "dia": "dom",
+    "cantidad": 17.45
+  },
+  {
+    "dia": "lun",
+    "cantidad": 34.91
+  },
+  {
+    "dia": "mar",
+    "cantidad": 52.36
+  },
+  {
+    "dia": "mie",
+    "cantidad": 31.07
+  },
+  {
+    "dia": "jue",
+    "cantidad": 23.39
+  },
+  {
+    "dia": "vie",
+    "cantidad": 43.28
+  },
+  {
+    "dia": "sab",
+    "cantidad": 25.48
+  }
+]
